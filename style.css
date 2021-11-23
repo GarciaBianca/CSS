@@ -1,0 +1,20 @@
+#Titulo{
+    background-color: yellow;
+    color:blue;
+}
+#titulo1{
+    background-color: cornflowerblue;
+    color: crimson;
+}
+.subtitulo{ 
+    background-color: cyan;
+    color: darkorchid;
+
+}
+div strong a{
+    color: darkred;
+}
+
+strong, em, span {
+    color: darkviolet;
+}
