@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt">
+
+<head>
+    <!-- teste 1-->
+    <meta charset="UTF-8">
+    <title>Teste CSS</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <h1 id="Titulo"> Titulo Maior</h1>
+    <h2 id="titulo1">Titulo menor</h2>
+    <h3 class="subtitulo"> Subtitulo </h3>
+    <h4 class="subtitulo"> Subtitulo 2</h4>
+    <div>
+        <!--- Teste 2-->
+    <strong>
+        <a href="#"> Seletor encadeado</a>
+    </strong>
+    </div>
+    <div> 
+        <strong> Seletor agrupado</strong>
+    </div>
+    <div>
+        <em>Seletor agrupado</em>
+    </div>
+    <div>
+        <span>Seletor Agrupado</span>
+    </div>
+</body>
